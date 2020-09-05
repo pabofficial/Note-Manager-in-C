@@ -1,5 +1,5 @@
 # Introduction
-Hi, This is my github repo for Note Manager Program Written in C using Codeblocks IDE.
+Hi, This is my github repo for Note Manager program written in C using Codeblocks IDE.
 ______
 ## Here are Some Screenshots of the program:
 _____
