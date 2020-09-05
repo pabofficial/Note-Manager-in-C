@@ -36,7 +36,7 @@ int main()
 
         printf("\n\n\t\tMAIN MENU:");
         printf("\n\n\tADD RECORD\t[1]");
-        printf("\n\tVIEW RECORD\t[2]")
+        printf("\n\tVIEW RECORD\t[2]");
         printf("\n\tEDIT RECORD\t[3]");
         printf("\n\tDELETE RECORD\t[4]");
         printf("\n\tEDIT PASSWORD\t[5]");
